@@ -29,14 +29,14 @@ PRODUCT_COPY_FILES +=  \
     vendor/vanir/audio/app/Audiofxwidget.apk:system/app/Audiofxwidget.apk \
     vendor/vanir/audio/app/BeatsTweaks.apk:system/app/BeatsTweaks.apk \
     vendor/vanir/audio/app/DolbyMobile.apk:system/app/DolbyMobile.apk \
-    vendor/vanir/audio/bins/alsa_amixer:system/bin/alsa_amixer \
-    vendor/vanir/audio/bins/alsa_aplay:system/bin/alsa_aplay \
-    vendor/vanir/audio/bins/alsa_ctl:system/bin/alsa_ctl \
-    vendor/vanir/audio/bins/snd:system/bin/snd \
-    vendor/vanir/audio/bins/snd3254:system/bin/snd3254 \
-    vendor/vanir/audio/bins/sound:system/bin/sound \
-    vendor/vanir/audio/bins/sound8x60:system/bin/sound8x60 \
-    vendor/vanir/audio/bins/sound8960:system/bin/sound8960 \
+    vendor/vanir/audio/bin/alsa_amixer:system/bin/alsa_amixer \
+    vendor/vanir/audio/bin/alsa_aplay:system/bin/alsa_aplay \
+    vendor/vanir/audio/bin/alsa_ctl:system/bin/alsa_ctl \
+    vendor/vanir/audio/bin/snd:system/bin/snd \
+    vendor/vanir/audio/bin/snd3254:system/bin/snd3254 \
+    vendor/vanir/audio/bin/sound:system/bin/sound \
+    vendor/vanir/audio/bin/sound8x60:system/bin/sound8x60 \
+    vendor/vanir/audio/bin/sound8960:system/bin/sound8960 \
     vendor/vanir/audio/etc/audio:system/etc/audio \
     vendor/vanir/audio/etc/audio/aeqcoe.txt:system/etc/audio/aeqcoe.txt \
     vendor/vanir/audio/etc/audio/eqfilter.txt:system/etc/audio/eqfilter.txt \
